@@ -6,3 +6,4 @@ Notes for the Udacity course **Intro to ML with Tensor Flow - Scholarship Progra
 * [2 Perceptron  Algorithm](https://nbviewer.jupyter.org/github/thomd/udacity-ml-with-tensor-flow/blob/main/2-perceptron-algorithm.ipynb)
 * [3 Decision Trees](https://nbviewer.jupyter.org/github/thomd/udacity-ml-with-tensor-flow/blob/main/3-decision-trees.ipynb)
 * [4 Naive Bayes](https://nbviewer.jupyter.org/github/thomd/udacity-ml-with-tensor-flow/blob/main/4-naive-bayes.ipynb)
+* [5 Support Vector Machines](https://nbviewer.jupyter.org/github/thomd/udacity-ml-with-tensor-flow/blob/main/5-support-vector-machines.ipynb)
