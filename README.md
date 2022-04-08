@@ -1,6 +1,6 @@
 # Machine Learning with TensorFlow
 
-Notes for the Udacity course **Intro to ML with Tensor Flow - Scholarship Program Nanodegree Program**
+Notes from the Udacity course **Intro to ML with Tensor Flow - Scholarship Program Nanodegree Program**
 
 * [1 Linear Regression](https://nbviewer.jupyter.org/github/thomd/udacity-ml-with-tensor-flow/blob/main/1-linear-regression.ipynb) (Linear Regression, Polynomial Regression, L1- & L2-Regularization, Feature Scaling)
 * [2 Perceptron  Algorithm](https://nbviewer.jupyter.org/github/thomd/udacity-ml-with-tensor-flow/blob/main/2-perceptron-algorithm.ipynb)
